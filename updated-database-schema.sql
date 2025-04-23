@@ -1,3 +1,4 @@
+--initial sql database
 -- Create the database
 CREATE DATABASE IF NOT EXISTS savanak_ke;
 USE savanak_ke;
