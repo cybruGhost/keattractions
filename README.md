@@ -121,11 +121,4 @@ This project is under the [MIT License](LICENSE).
 
 ---
 
-## 💬 Contact
-
-For inquiries or feedback:  
-📧 **keattractions@yourdomain.com**
-
-```
-
 ---
